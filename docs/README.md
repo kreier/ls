@@ -90,7 +90,7 @@ We will mainly focus on the first four units. It will be sublemented by the mini
 - Step 1: What I see
 - Step 2: What it means
 
-## [Choose the right type of Graph](./graphs)
+## [Choose the right type of Graph](./graph)
 
 - [Types of graphs](https://docs.google.com/presentation/d/1HCAnqURrNZPeRueU94KQYszTeeb5JQto4b8Frk3tKLc/edit?usp=sharing)
 - [Making graphs](https://docs.google.com/document/d/13WjW3CSvtwD3QTVoljjRa_QY0k7rVDW42LPIIboTCEY/edit?usp=sharing)

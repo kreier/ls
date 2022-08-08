@@ -16,7 +16,7 @@ As a work in progress this repository tracks some important steps in the SSIS co
 - Mini-lesson: Planning and Conducting Investigations
 
 
-## [Unit 2: Energy and Matter in Life](./docs/energymatter)
+## [Unit 2: Energy and Matter in Life](./docs/energymatter) (22)
 
 ### 2.1 Photosynthesis (11)
 
@@ -40,7 +40,8 @@ As a work in progress this repository tracks some important steps in the SSIS co
 ### 2.4 Aerobic and Anaerobic Cycling of Matter (1)
 
 
-## [Unit 3: Inheritance and Variation](./docs/heredity)
+
+## [Unit 3: Inheritance and Variation](./docs/heredity) (9)
 
 ### 3.1 Cellular Division and Differentiation (4)
 
@@ -56,6 +57,8 @@ As a work in progress this repository tracks some important steps in the SSIS co
 ### 3.3 Inheritable Genetic Variation (1)
 
 - Worksheet
+
+
 
 ## [Unit 4: Evolution by Natural Selection](./docs/evolution) (17)
 
@@ -86,12 +89,23 @@ As a work in progress this repository tracks some important steps in the SSIS co
 - Step 1: What I see
 - Step 2: What it means
 
-## [Choose the right type of Graph](./docs/graphs)
+## [Choose the right type of Graph](./docs/graph)
 
 - [Types of graphs](https://docs.google.com/presentation/d/1HCAnqURrNZPeRueU94KQYszTeeb5JQto4b8Frk3tKLc/edit?usp=sharing)
 - [Making graphs](https://docs.google.com/document/d/13WjW3CSvtwD3QTVoljjRa_QY0k7rVDW42LPIIboTCEY/edit?usp=sharing)
 - [Common Mathematics used in Life Science](https://docs.google.com/document/d/1Ca2RY85rRUgTeXuQZRxnaE_HHmKmYDh_rx9LEy9pDE0/edit?usp=sharing)
 - [Helper to decide: choosing the right graph](https://drive.google.com/file/d/1uW51LHGPVrOFol8b6jovU55Ab8SpYMRD/view)
+
+## Common Mathematics used in Life Science
+
+- [Common Mathematics used in Life Science](https://docs.google.com/document/d/1Ca2RY85rRUgTeXuQZRxnaE_HHmKmYDh_rx9LEy9pDE0/edit?usp=sharing)
+
+### Terminology:
+
+- Skew
+- Center (Mean, Median, Mode)
+- Spread
+- Standard Deviation
 
 ## [Interpret data - the CER (claim, evidence, reasoning) method](./docs/cer)
 
