@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Life Science at SSIS 2022-2023
 
-You can use the [editor on GitHub](https://github.com/kreier/ls/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As a work in progress this repository tracks some important steps in the SSIS course "Life Science" 2022-2023 with the four main units (found in the /docs folder):
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Unit 1: Body Systems and Feedback Mechanisms](./docs/systems)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## [Unit 2: Energy and Matter in Life](./docs/energymatter)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## [Unit 3: Inheritance and Variation](./docs/heredity)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## [Unit 4: Evolution by Natural Selection](./docs/evolution)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kreier/ls/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## [Unit 5: Ecosystems](./docs/ecosystems)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## [Identify and Interpret Strategy](./docs/iis)
+
+- Step 1: What I see
+- Step 2: What it means
+
+Let's try [a link](./iis) and see if it works.
